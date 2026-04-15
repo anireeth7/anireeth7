@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working at Enigma Technologies<br>I am a Data Engineer<br>I am good at Developing Pipelines and analyze data<br>Expert in Transforming raw datasets into high quality semnatic layers.
+I am a Data Engineer<br>I am good at Developing Pipelines and analyze data<br>Expert in Transforming raw datasets into high quality semnatic layers.
 
 
 # 💻 Tech Stack:
